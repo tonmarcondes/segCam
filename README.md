@@ -3,7 +3,7 @@ PI IV UNIVESP
 
 ### Para rodar localmente
 
-1. Baixe e instale o [Git](https://git-scm.com/downloads em seu computador)
+1. Baixe e instale o [Git](https://git-scm.com/downloads) em seu computador
 1. Clone o repositório
 
 ```bash
