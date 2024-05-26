@@ -1,5 +1,5 @@
 # segCam
-PI IV UNIVESP
+PI VI UNIVESP
 
 > O sistema segCam foi concebido com o prpósito de ajudar entidades escolares no sentido de monitoração de câmeras e ambientes sensorizados, para que saibam que sala houve o acionamento de algum sensor de emergência, bem como se existe algum sensor que esteja acionado, demonstrando que o possível invasor encontra-se naquela sala, onde é possível acionar a câmera local para que identifique se de fato é um intruso, possibilitando o acionamento da polícia para demais procedimentos.
 
